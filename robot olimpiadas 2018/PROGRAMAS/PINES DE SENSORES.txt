@@ -1,0 +1,25 @@
+8sensor  49. A6
+7sensor  50. A5
+6sensor  51. A8
+5sensor  43. A0
+4sensor  45. A2
+3sensor  46. A1
+2sensor  47. A4
+1sensor  53. A10 
+
+
+LEDON   54.  A9
+
+
+
+
+color1 A3    48
+ PC7     83      D30    pc7 arriba 4°
+ PC5     85      D32
+
+
+
+
+color2 A7    52
+ PC3     87      D34
+ PC1     89      D36
